@@ -5,10 +5,10 @@ Usage:
 3. After running, the script displays a table of entered course details and Your total GPA ("Điểm GPA tích lũy của bạn là:")
 4. This will not save the entered courses permanently (must create database and use SQL in similar future projects)
 
-- Result: \n
-Your GPA is: 3.5 \n
-Courses Entered: \n
-Course     Credits    Grade     \n
------------------------------------
-english     2.0        3.00      \n
-stats       2.0        4.00      \n
+- Result: 
+Your GPA is: 3.5 
+Courses Entered: 
+Course     Credits    Grade      
+----------------------------------- 
+english     2.0        3.00       
+stats       2.0        4.00       
